@@ -1,0 +1,72 @@
+.im1{
+  height: 550px;
+
+  width: auto;
+}
+.carousel-item{
+  text-align:center;
+  background-color: #f0e3ff;
+}
+.im2{
+  height: 480px;
+    width: 345px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.im3{
+  border-radius: 100%;
+  height:200px;
+  width: 200px;
+  position: relative;
+  left: 30px;
+
+}
+
+.q4{
+  color: white;
+  padding-left: 5%;
+  position: relative;
+  left: 70%;
+}
+body{
+  background-color: #d3f4ff;
+}
+.a{
+  background-color:#f0e3ff;
+}
+.gbody{
+  text-align: center;
+  background-color: black;
+}
+.ghead{
+  color: white;
+}
+h3{
+  color: white;
+  text-align:center;
+}
+.i{
+  height: 450px;
+    width: 375px;
+    text-align: center;
+    position:relative;
+    top: 150px;
+
+}
+.navbar-brand{
+  font-size: 2rem;
+}
+#footer{
+  background-color: black;
+  padding-top: 10px;
+}
+h1{
+  font-family: 'Allura', cursive;
+  font-size: 5rem;
+  font-weight: bold;
+  color: #381460;
+}
+#carouselExampleControls{
+  padding-bottom: 40px;
+}
